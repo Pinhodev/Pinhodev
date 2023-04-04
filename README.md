@@ -14,9 +14,11 @@ IT Skills (Database, SAP, Programming, Office)
 Effective Communication and Teamwork
 
 What am I working on?
+
 Currently, I am working on developing apps that can improve people's daily lives. I am constantly learning new skills and exploring different programming languages to enhance my abilities.
 
 Contact
+
 If you have any questions, ideas, or collaboration opportunities, feel free to reach out to me via email or LinkedIn.
 
 Thank you for visiting my Github page!
