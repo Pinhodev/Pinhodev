@@ -1,16 +1,22 @@
-### Hi there 👋
+[Andre Pinho]'s Github Readme
 
-<!--
-**Pinhodev/Pinhodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who am I?
 
-Here are some ideas to get you started:
+Greetings! I'm a versatile Industrial Engineer with a passion for technical management, lean implementation, and logistics coordination. With several years of experience in various industries, I've developed skills in project management, team leadership, and effective communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Key Skills:
+
+Logistics and Production Operations Coordination
+Lean Implementation and Continuous Improvement
+Project Management in Team-Oriented Environments
+Leadership and Motivation
+IT Skills (Database, SAP, Programming, Office)
+Effective Communication and Teamwork
+
+What am I working on?
+Currently, I am working on developing apps that can improve people's daily lives. I am constantly learning new skills and exploring different programming languages to enhance my abilities.
+
+Contact
+If you have any questions, ideas, or collaboration opportunities, feel free to reach out to me via email or LinkedIn.
+
+Thank you for visiting my Github page!
