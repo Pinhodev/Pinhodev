@@ -1,14 +1,10 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
 
-Who am I?
+
+#Who am I?
 
 Greetings! I'm a versatile Industrial Engineer with a passion for technical management, lean implementation, and logistics coordination. With several years of experience in various industries, I've developed skills in project management, team leadership, and effective communication.
 
-Key Skills:
+#Key Skills:
 
 Logistics and Production Operations Coordination
 Lean Implementation and Continuous Improvement
@@ -17,11 +13,11 @@ Leadership and Motivation
 IT Skills (Database, SAP, Programming, Office)
 Effective Communication and Teamwork
 
-What am I working on?
+#What am I working on?
 
 Currently, I am working on developing apps that can improve people's daily lives. I am constantly learning new skills and exploring different programming languages to enhance my abilities.
 
-Contact
+#Contact
 
 If you have any questions, ideas, or collaboration opportunities, feel free to reach out to me via email or LinkedIn.
 
